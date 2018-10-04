@@ -1,0 +1,4 @@
+test/modules/App.class
+test/modules/MainConfiguration.class
+module-info.class
+test/modules/components/TestComponent.class

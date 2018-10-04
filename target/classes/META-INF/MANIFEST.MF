@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: legioner
+Build-Jdk: 10.0.2
+Class-Path: spring-core-5.0.9.RELEASE.jar spring-jcl-5.0.9.RELEASE.jar
+  spring-context-5.0.9.RELEASE.jar spring-aop-5.0.9.RELEASE.jar spring
+ -beans-5.0.9.RELEASE.jar spring-expression-5.0.9.RELEASE.jar spring-t
+ x-5.0.9.RELEASE.jar
+Main-Class: test.modules.App
+Created-By: Maven Integration for Eclipse
+
